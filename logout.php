@@ -8,5 +8,5 @@ unset($_SESSION['admin_id']);
 unset($_SESSION['user_id']);
 session_destroy();
 redirect('../index.php');
-
+    
 ?>
