@@ -52,20 +52,13 @@ Copy the extracted folder
 Paste it into:
 
 C:\xampp\htdocs\
-
-
 Example:
-
 C:\xampp\htdocs\result-management-system
 
 ✅ Step 3: Create Database
-
 Open browser
-
 Go to:
-
 http://localhost/phpmyadmin
-
 
 Click New
 
@@ -150,8 +143,6 @@ Web application demonstration
 
 📌 Notes
 
-No internet connection required
-
 Runs on local server
 
 Compatible with Windows
@@ -159,6 +150,6 @@ Compatible with Windows
 👤 Developer
 
 Name: Shuvo Chakrobortty
-Course: Software Engineering / Web Programming
+Course: Software Engineering 
 Institution: IUBAT
 Project Type: Academic Project
